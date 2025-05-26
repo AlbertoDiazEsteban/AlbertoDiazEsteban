@@ -17,26 +17,24 @@
 
 #### 💻 Frontend  
 <p align="center">
-  ![HTML5](https://img.icons8.com/color/48/html-5.png)
-  ![CSS3](https://img.icons8.com/color/48/css3.png)
-  ![SCSS](https://img.icons8.com/color/48/sass.png)
-  ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)
-  ![jQuery](https://img.icons8.com/ios-filled/48/0769AD/jquery.png)
-  ![React](https://img.icons8.com/officel/48/react.png)
-  ![Vite](https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png) <!-- no hay ícono oficial de vite en icons8 -->
-  ![Angular](https://img.icons8.com/color/48/angularjs.png)
-  ![JavaScript](https://img.icons8.com/color/48/javascript.png)
-  ![TypeScript](https://img.icons8.com/color/48/typescript.png)
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/sass.png" alt="SCSS"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/ios-filled/48/jquery.png" alt="jQuery"/>
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
 </p>
 
 #### 🔧 Backend & Tools  
 <p align="center">
-  ![PHP](https://img.icons8.com/officel/48/php-logo.png)
-  ![Symfony](https://cdn.worldvectorlogo.com/logos/symfony.svg)
-  ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)
-  ![MySQL](https://img.icons8.com/fluency/48/mysql-logo.png)
-  ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
-  ![AWS Lambda](https://img.icons8.com/color/48/amazon-web-services.png)
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS Lambda"/>
 </p>
 
 ---
