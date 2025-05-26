@@ -15,24 +15,40 @@
 
 ### 🛠 Tech Stack
 
-![Astro](https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=white)
+#### 💻 Frontend  
+<p align="center">
+  ![HTML5](https://img.icons8.com/color/48/html-5.png)
+  ![CSS3](https://img.icons8.com/color/48/css3.png)
+  ![SCSS](https://img.icons8.com/color/48/sass.png)
+  ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)
+  ![jQuery](https://img.icons8.com/ios-filled/48/0769AD/jquery.png)
+  ![React](https://img.icons8.com/officel/48/react.png)
+  ![Vite](https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png) <!-- no hay ícono oficial de vite en icons8 -->
+  ![Angular](https://img.icons8.com/color/48/angularjs.png)
+  ![JavaScript](https://img.icons8.com/color/48/javascript.png)
+  ![TypeScript](https://img.icons8.com/color/48/typescript.png)
+</p>
+
+#### 🔧 Backend & Tools  
+<p align="center">
+  ![PHP](https://img.icons8.com/officel/48/php-logo.png)
+  ![Symfony](https://cdn.worldvectorlogo.com/logos/symfony.svg)
+  ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)
+  ![MySQL](https://img.icons8.com/fluency/48/mysql-logo.png)
+  ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
+  ![AWS Lambda](https://img.icons8.com/color/48/amazon-web-services.png)
+</p>
 
 ---
 
 ### ✨ Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Astara**](https://www.astara.com/es) | Marketplace de suscripción para alquiler de coches. UX optimizada y diseño adaptable. | HTML, Scss y Vanilla JS |
-| [**MyChef**](https://mychefpro.com/) | Marketplace de hornos y equipamiento profesional. Desarrollo en PHP y WordPress. | PHP, WordPress |
-| [**The Impossible Order**](https://www.theimpossibleorder.com/) | Proyecto interactivo de sensibilización sobre el Alzheimer. Navegación tipo puzzle con narrativa inmersiva. | HTML, scss Vanilla JS |
-| [**Suchard – Campaña de Navidad**](https://www.suchard.es/) | Sitio promocional navideño con enfoque en experiencia de marca. | PHP, HTML, Scss y Vanilla JS |
-
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Astara**](https://www.astara.com/es) | Marketplace de suscripción para coches. UX optimizada y responsive. | <p align="center">HTML · SCSS · Vanilla JS</p> |
+| [**MyChef**](https://mychefpro.com/) | Marketplace de equipamiento profesional de cocina. | <p align="center">PHP · WordPress</p> |
+| [**The Impossible Order**](https://www.theimpossibleorder.com/) | Proyecto inmersivo sobre el Alzheimer con navegación puzzle. | <p align="center">HTML · SCSS · Vanilla JS</p> |
+| [**Suchard – Campaña de Navidad**](https://www.suchard.es/) | Página promocional navideña con storytelling interactivo. | <p align="center">PHP · HTML · SCSS · Vanilla JS</p> |
 
 ---
 
